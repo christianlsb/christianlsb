@@ -10,7 +10,6 @@
     <img align="center" alt="Igor-REACT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Igor-SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" alt="Igor-BOOTSTRAP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Igor-BITBUCKET" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
     <img align="center" alt="Igor-DOCKER" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align="center" alt="Igor-FIGMA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     <img align="center" alt="Igor-SLACK" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
