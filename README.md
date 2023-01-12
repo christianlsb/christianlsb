@@ -2,14 +2,20 @@
 
 ## Skills
   <div align="center">
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    
+    <img align="center" alt="Igor-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Igor-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Igor-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Igor-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Igor-POSTGRES" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Igor-REACT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Igor-SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Igor-BOOTSTRAP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Igor-BITBUCKET" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+    <img align="center" alt="Igor-DOCKER" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Igor-FIGMA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Igor-SLACK" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+    <img align="center" alt="Igor-TRELLO" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+    </div>
 
   
   ## Stats
@@ -19,4 +25,5 @@
     </a>
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianlsb&hide=html,&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=111111&hide_border=true&layout=compact&show_icons=true" />
 </div>
+
    
