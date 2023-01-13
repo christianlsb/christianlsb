@@ -18,11 +18,9 @@
 
   
   ## Stats
-<div align="center">
-    <a href="http://www.github.com/christianlsb">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christianlsb&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=101010&hide_border=true&show_icons=true"      alt="christianlsb's GitHub stats" />
-    </a>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianlsb&hide=html,&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=111111&hide_border=true&layout=compact&show_icons=true" />
-</div>
-
-   
+<div >
+  <a href="https://github.com/christianlsb">
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christianlsb&&show_icons=true&theme=aura&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christianlsb&layout=compact&langs_count=7&theme=aura"/>
+  </a>
+</div>  
