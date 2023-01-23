@@ -1,4 +1,4 @@
-### Hello my name is Christian, welcome to my github. 👋
+### Hello my name's Christian, welcome to my github. 👋
 
 ## Skills
   <div align="center">
