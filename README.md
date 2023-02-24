@@ -6,4 +6,4 @@ Hi, I'm Christian I’m a developer.
 🛠️ javascript  
 🧰 And more...  
 
-![Metrics](https://metrics.lecoq.io/christianlsb)
+
