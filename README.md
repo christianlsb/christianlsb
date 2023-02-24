@@ -1,9 +1,9 @@
-Hi, I'm Christian
-I’m a developer. 
+Hi, I'm Christian I’m a developer. 
 
-My current tools
+#### My current tools 
+🌎 Front-end Web with Reactjs  
+📡 Back-end with Nodejs  
+🛠️ javascript  
+🧰 And more...  
 
-🌎 Front-end Web with Reactjs
-📡 Back-end with Nodejs
-🛠️ Typescript
-🧰 And more...
+![Metrics](https://metrics.lecoq.io/christianlsb)
