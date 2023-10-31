@@ -1,4 +1,4 @@
-<h2> I'm a passionate web developer with a penchant for creating digital experiences. 🚀 Exploring the infinite possibilities of code to create web applications! </h2>
+<h2>Software develop</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
